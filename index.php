@@ -1,11 +1,11 @@
 <!doctype html>
 <html class="no-js" lang="pt">
 
-<?php include 'head.php' ?>
+<?php include 'parts/head.php' ?>
 
 <body>
 
-<?php include 'navbar.php' ?>
+<?php include 'parts/navbar.php' ?>
 
 <div id="language"><a>PT</a>/<a>ENG</a></div>
 
