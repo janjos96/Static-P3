@@ -454,3 +454,11 @@ footer p{
         page-break-after: avoid;
     }
 }
+
+
+/*SCROLL BAR*/
+
+.vl {
+    border-left: 6px solid black;
+    height: 50px;
+}

@@ -10,6 +10,8 @@
 <div id="language"><a>PT</a>/<a>ENG</a></div>
 
 <div id="im"><img id="imagemain" src="img/main.png" alt="main"></div>
+<div class="vl"></div>
+
 
 <div class="contentarea">
 
