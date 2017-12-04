@@ -124,7 +124,14 @@ nav {
     cursor: pointer;
     display: inline-block;
     width: 100%;
+
 }
+
+.mainnav:hover{
+    text-decoration: line-through;
+}
+
+
 
 
 nav ul {
