@@ -1,64 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e3ced3ac-e205-47c6-bd03-ab600998fe10" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/columnizer/samples/painting1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/columnizer/samples/painting2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/columnizer/samples/painting3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/columnizer/samples/painting4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/columnizer/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/columnizer/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/columnizer/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/columnizer/compress.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/columnizer/minify.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/columnizer/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/columnizer/samples/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/columnizer/samples/issue92.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/columnizer/samples/issue_12.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/columnizer/samples/issue_126.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/columnizer/samples/issue_30.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/columnizer/samples/issue_36.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/columnizer/samples/issue_44.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/columnizer/samples/issue_45.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/columnizer/samples/issue_46.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/columnizer/samples/issue_47.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/columnizer/samples/issue_47_2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/columnizer/samples/issue_49.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/columnizer/samples/issue_51.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/columnizer/samples/issue_54.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/columnizer/samples/issue_55.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/columnizer/samples/issue_55_2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/columnizer/samples/nested_table_headers.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/columnizer/samples/reset.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/columnizer/samples/sample-uncolumnize.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/columnizer/samples/sample1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/columnizer/samples/sample10.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/columnizer/samples/sample101.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/columnizer/samples/sample102.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/columnizer/samples/sample103.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/columnizer/samples/sample11.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/columnizer/samples/sample12.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/columnizer/samples/sample13.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/columnizer/samples/sample14.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/columnizer/samples/sample15.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/columnizer/samples/sample2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/columnizer/samples/sample3.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/columnizer/samples/sample4.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/columnizer/samples/sample5.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/columnizer/samples/sample6.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/columnizer/samples/sample7.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/columnizer/samples/sample8.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/columnizer/samples/sample9.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/columnizer/samples/table_headers.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/columnizer/src/jquery.columnizer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/columnizer/src/jquery.columnizer.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/columnizer/src/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/columnizer/tools/compress.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/columnizer/tools/jsmin-1.1.1.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
-    </list>
+    <list default="true" id="e3ced3ac-e205-47c6-bd03-ab600998fe10" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -84,7 +27,7 @@
       <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="146">
+            <state relative-caret-position="586">
               <caret line="152" column="1" lean-forward="true" selection-start-line="152" selection-start-column="1" selection-end-line="152" selection-end-column="1" />
               <folding />
             </state>
@@ -201,12 +144,12 @@
       <updated>1512323726120</updated>
       <workItem from="1512323727326" duration="2039000" />
       <workItem from="1512390472161" duration="305000" />
-      <workItem from="1512391025170" duration="1667000" />
+      <workItem from="1512391025170" duration="1701000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4011000" />
+    <option name="totallyTimeSpent" value="4045000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -300,7 +243,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
+        <state relative-caret-position="586">
           <caret line="152" column="1" lean-forward="true" selection-start-line="152" selection-start-column="1" selection-end-line="152" selection-end-column="1" />
           <folding />
         </state>
