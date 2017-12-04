@@ -139,8 +139,9 @@ nav ul {
 
 #title {
     border-bottom: 1px solid black;
-    padding-bottom: 15px;
+    padding-bottom: 5px;
     margin-bottom: 10px;
+    margin-top: 0;
 
 
 }
