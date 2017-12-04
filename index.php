@@ -13,40 +13,7 @@
 
 
 <div class="contentarea">
-
-
-    <div id="content">
-        <div class="box"></div>
-        <div class="box"></div>
-        <div class="box"></div>
-        <div class="box"></div>
-        <div class="box"></div>
-        <div class="box"></div>
-        <div class="box"></div>
-        <div class="box"></div>
-    </div>
-
-    <style type="text/css">
-        body {
-            width: 100%;
-            min-height: 100%;
-        }
-
-        #content {
-            width: 100%;
-            max-width: 800px;
-            margin: 0 auto;
-        }
-
-        .box {
-            float: left;
-            display: table;
-            height: 180px;
-            width: 180px;
-            margin: 10px;
-            background-color: blue;
-        }
-    </style>
+    
 
     <section id="latestarticles">
         <h1>LATEST ARTICLES</h1>
