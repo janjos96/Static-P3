@@ -47,7 +47,7 @@
     </section>
 
     <section id="latesteditions">
-        <h1>LATEST EDITIONS</h1>
+        <h1>EDITIONS</h1>
 
         <div class="grid">
             <div class="grid-item grid-item--width2"></div>

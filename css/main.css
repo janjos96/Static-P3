@@ -124,11 +124,19 @@ nav {
     cursor: pointer;
     display: inline-block;
     width: 100%;
+    color: #000;
 
 }
 
-.mainnav:hover{
+.mainnav a:hover{
     text-decoration: line-through;
+    color: black;
+}
+
+.mainnav a{
+    color: black;
+    text-decoration: none;
+
 }
 
 
@@ -150,6 +158,13 @@ nav ul {
     margin-bottom: 10px;
     margin-top: 0;
 
+
+
+}
+
+#title a {
+    color: #000;
+    text-decoration: none;
 
 }
 
