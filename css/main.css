@@ -160,7 +160,7 @@ nav ul {
     background-color: #cbcfd6;
     min-width: 160px;
     /*box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);*/
-    z-index: 1;
+    z-index: 10;
     margin-left: 150px;
     margin-top: -20px;
     list-style-type: none;
@@ -200,12 +200,16 @@ nav ul {
 
 
 
-#latestarticles{
+#latestarticles h1{
     border-top: 1px solid black;
     padding-top: 50px;
+    margin-bottom: 50px;
     clear: both;
 }
-#latesteditions{
+#latesteditions h1{
+    padding-top: 50px;
+    margin-bottom: 50px;
+    clear: both;
 
 }
 
@@ -214,8 +218,7 @@ nav ul {
     float: right;
     margin-top: 200px;
     padding-right: 50px;
-
-
+    z-index: -1;
 
 }
 

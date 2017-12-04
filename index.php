@@ -14,33 +14,34 @@
 <div class="contentarea">
 
 
-
-
     <section id="latestarticles">
-        <h1>LATEST ARTICLES</h1>
 
-        <div class="grid">
-            <div class="grid-item grid-item--width2"></div>
-            <div class="grid-item grid-item--height2"></div>
-            <div class="grid-item"></div>
-            <div class="grid-item"></div>
-            <div class="grid-item grid-item--width2 grid-item--height2"></div>
-            <div class="grid-item grid-item--width2"></div>
-            <div class="grid-item grid-item--width2"></div>
-            <div class="grid-item grid-item--height2"></div>
-            <div class="grid-item"></div>
-            <div class="grid-item grid-item--width2"></div>
-            <div class="grid-item grid-item--height2"></div>
-            <div class="grid-item"></div>
-            <div class="grid-item"></div>
-            <div class="grid-item grid-item--width2"></div>
-            <div class="grid-item grid-item--height2"></div>
-            <div class="grid-item"></div>
-            <div class="grid-item grid-item--width2"></div>
-            <div class="grid-item grid-item--height2"></div>
-            <div class="grid-item"></div>
-            <div class="grid-item"></div>
-        </div>
+            <h1>LATEST ARTICLES</h1>
+
+            <div class="grid">
+                <div class="grid-item grid-item--width2"></div>
+                <div class="grid-item grid-item--height2"></div>
+                <div class="grid-item"></div>
+                <div class="grid-item"></div>
+                <div class="grid-item grid-item--width2 grid-item--height2"></div>
+                <div class="grid-item grid-item--width2"></div>
+                <div class="grid-item grid-item--width2"></div>
+                <div class="grid-item grid-item--height2"></div>
+                <div class="grid-item"></div>
+                <div class="grid-item grid-item--width2"></div>
+                <div class="grid-item grid-item--height2"></div>
+                <div class="grid-item"></div>
+                <div class="grid-item"></div>
+                <div class="grid-item grid-item--width2"></div>
+                <div class="grid-item grid-item--height2"></div>
+                <div class="grid-item"></div>
+                <div class="grid-item grid-item--width2"></div>
+                <div class="grid-item grid-item--height2"></div>
+                <div class="grid-item"></div>
+                <div class="grid-item"></div>
+            </div>
+
+
 
 
     </section>
@@ -103,7 +104,6 @@
     ga('create', 'UA-XXXXX-Y', 'auto');
     ga('send', 'pageview')
 </script>
-
 
 
 <script src="https://www.google-analytics.com/analytics.js" async defer></script>
