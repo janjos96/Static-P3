@@ -22,7 +22,6 @@ print '<head>
     <script src="plugs/jquery/jquery.min.js"></script>
     <script src="plugs/popper/popper.min.js"></script>
     <script src="plugs/bootstrap/js/bootstrap.min.js"></script>
-    <script src="js/isotope.pkgd.min.js"></script>
     <script src="js/main.js"></script>
 </head>';
 
