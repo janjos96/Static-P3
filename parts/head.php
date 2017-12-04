@@ -1,5 +1,5 @@
 <?php
-echo '<head>
+print '<head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title></title>
@@ -10,16 +10,16 @@ echo '<head>
     <link rel="apple-touch-icon" href="../icon.png">
     <!-- Place favicon.ico in the root directory -->
 
-    <link rel="stylesheet" href="../css/normalize.css">
-    <link rel="stylesheet" href="../css/main.css">
+    <link rel="stylesheet" href="css/normalize.css">
+    <link rel="stylesheet" href="css/main.css">
     <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
     
-    <link href="../plugs/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-    <link href="../plugs/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="plugs/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="plugs/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
     <!-- Bootstrap core JavaScript -->
-    <script src="../plugs/jquery/jquery.min.js"></script>
-    <script src="../plugs/popper/popper.min.js"></script>
-    <script src="../plugs/bootstrap/js/bootstrap.min.js"></script>
+    <script src="plugs/jquery/jquery.min.js"></script>
+    <script src="plugs/popper/popper.min.js"></script>
+    <script src="plugs/bootstrap/js/bootstrap.min.js"></script>
 </head>';
 
 ?>
