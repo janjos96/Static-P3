@@ -12,20 +12,8 @@
 <div class="contentarea">
 
 
-    <h1 id="tit">CONTACTS</h1>
+    <h1 id="tit">ARTICLES</h1>
 
-    <p>adress</p></br>
-    <p>king cross street</p>
-    <p>phone</p></br>
-    <p>54654655665</p>
-
-    <form action="envia.php" method="POST">
-        <input type="text" name="name" placeholder="Name" required><br>
-        <input type="text" name="email" placeholder="Email" required><br>
-        <input id="messageBox" type="text" name="message" placeholder="Message" required><br>
-        <input class="inputButton" type="submit" value="Send">
-        <input class="inputButton" type="reset" value="Reset">
-    </form>
 
 
     <footer>

@@ -3,12 +3,12 @@
 echo '<nav>
 
     <ul>
-        <h1 id="title">GAEA</h1>
-        <li class="mainnav">About</li>
-        <li class="mainnav">Editions</li>
-        <li class="mainnav">Articles</li>
+        <h1 id="title"><a href="index.php">GAEA</a></h1>
+        <li class="mainnav"><a href="about.php">About</a></li>
+        <li class="mainnav"><a href="editions.php">Editions</a> </li>
+        <li class="mainnav"><a href="articles.php">Articles</a></li>
         <li class="mainnav"><a href="contacts.php">Contacts</li></a></li>
-        <li class="mainnav">Shop</li>
+        <li class="mainnav"><a href="shop.php">Shop</a></li>
         <li class="dropdown mainnav">Social
             <div class="dropdown-content">
                 <ul>
