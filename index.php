@@ -18,7 +18,7 @@
             <li class="mainnav">Editions</li>
             <li class="mainnav">Articles</li>
             <li class="mainnav">Contacts</li>
-            <li class="mainnav">Shop</li>
+            <li class="mainnav">Loja</li>
             <li class="dropdown mainnav">
                 <p>Social</p>
                 <div class="dropdown-content">
