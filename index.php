@@ -1,43 +1,11 @@
 <!doctype html>
 <html class="no-js" lang="pt">
-<head>
-    <meta charset="utf-8">
-    <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title></title>
-    <meta name="description" content="">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <link rel="manifest" href="site.webmanifest">
-    <link rel="apple-touch-icon" href="icon.png">
-    <!-- Place favicon.ico in the root directory -->
+<?php include 'head.php' ?>
 
-    <link rel="stylesheet" href="css/normalize.css">
-    <link rel="stylesheet" href="css/main.css">
-    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
-</head>
 <body>
 
-<nav>
-
-    <ul>
-        <h1 id="title">GAEA</h1>
-        <li class="mainnav">About</li>
-        <li class="mainnav">Editions</li>
-        <li class="mainnav">Articles</li>
-        <li class="mainnav">Contacts</li>
-        <li class="mainnav">Shop</li>
-        <li class="dropdown mainnav">Social
-            <div class="dropdown-content">
-                <ul>
-                    <li>Facebook</li>
-                    <li>Linked in</li>
-                    <li>Vimeo</li>
-                </ul>
-            </div>
-        </li>
-    </ul>
-
-</nav>
+<?php include 'navbar.php' ?>
 
 <div id="language"><a>PT</a>/<a>ENG</a></div>
 
