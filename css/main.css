@@ -120,9 +120,10 @@ nav {
 
 .mainnav {
     list-style-type: none;
-    padding: 5px;
-    padding-right: 150px;
+    padding: 2%;
     cursor: pointer;
+    display: inline-block;
+    width: 100%;
 }
 
 
@@ -174,6 +175,10 @@ nav ul {
     text-decoration: none;
     cursor: pointer;
 
+}
+
+.dropdown:hover{
+    width: 200%;
 }
 
 .dropdown:hover .dropdown-content {
