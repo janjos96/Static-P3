@@ -124,7 +124,22 @@ nav {
     cursor: pointer;
     display: inline-block;
     width: 100%;
+    color: #000;
+
 }
+
+.mainnav a:hover{
+    text-decoration: line-through;
+    color: black;
+}
+
+.mainnav a{
+    color: black;
+    text-decoration: none;
+
+}
+
+
 
 
 nav ul {
@@ -144,6 +159,19 @@ nav ul {
     margin-top: 0;
 
 
+
+}
+
+#title a {
+    color: #000;
+    text-decoration: none;
+
+}
+
+#tit{
+    padding: 0;
+    margin: 0;
+
 }
 
 
@@ -160,13 +188,17 @@ nav ul {
     background-color: #cbcfd6;
     min-width: 160px;
     /*box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);*/
-    z-index: 1;
+    z-index: 10;
     margin-left: 150px;
     margin-top: -20px;
     list-style-type: none;
     padding: 5px;
     text-decoration: none;
 
+}
+
+.viewmore{
+    display:none;
 }
 
 .dropdown-content li {
@@ -200,22 +232,25 @@ nav ul {
 
 
 
-#latestarticles{
+#latestarticles h1{
     border-top: 1px solid black;
     padding-top: 50px;
+    margin-bottom: 50px;
     clear: both;
 }
-#latesteditions{
+#latesteditions h1{
+    padding-top: 50px;
+    margin-bottom: 50px;
+    clear: both;
 
 }
 
 .contentarea{
     width: 80%;
     float: right;
-    margin-top: 200px;
+    margin-top: 50px;
     padding-right: 50px;
-
-
+    z-index: -1;
 
 }
 
@@ -422,4 +457,12 @@ footer p{
     h3 {
         page-break-after: avoid;
     }
+}
+
+
+/*SCROLL BAR*/
+
+.vl {
+    border-left: 6px solid black;
+    height: 50px;
 }
