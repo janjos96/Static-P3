@@ -17,9 +17,7 @@ $grid.on( 'click', '.grid-item', function() {
 
     // change size of item by toggling gigante class
     $('.grid-item').removeClass('gigante');
-    $('.viewmore').css('display','none');
     $(this).addClass('gigante');
-    $(this).find(".viewmore").fadeIn(0);
     $grid.isotope('layout');
 
 });

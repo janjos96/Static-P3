@@ -183,26 +183,26 @@
             <h1>LATEST ARTICLES</h1>
 
             <div class="grid">
-                <div class="grid-item grid-item--width2"><a class="viewmore">view more</a></div>
-                <div class="grid-item grid-item--height2"><a class="viewmore">view more</a></div>
-                <div class="grid-item"><a class="viewmore">view more</a></div>
-                <div class="grid-item"><a class="viewmore">view more</a></div>
-                <div class="grid-item grid-item--width2 grid-item--height2"><a class="viewmore">view more</a></div>
-                <div class="grid-item grid-item--width2"><a class="viewmore">view more</a></div>
-                <div class="grid-item grid-item--width2"><a class="viewmore">view more</a></div>
-                <div class="grid-item grid-item--height2"><a class="viewmore">view more</a></div>
-                <div class="grid-item"><a class="viewmore">view more</a></div>
-                <div class="grid-item grid-item--width2"><a class="viewmore">view more</a></div>
-                <div class="grid-item grid-item--height2"><a class="viewmore">view more</a></div>
-                <div class="grid-item"><a class="viewmore">view more</a></div>
-                <div class="grid-item"><a class="viewmore">view more</a></div>
-                <div class="grid-item grid-item--width2"><a class="viewmore">view more</a></div>
-                <div class="grid-item grid-item--height2"><a class="viewmore">view more</a></div>
-                <div class="grid-item"><a class="viewmore">view more</a></div>
-                <div class="grid-item grid-item--width2"><a class="viewmore">view more</a></div>
-                <div class="grid-item grid-item--height2"><a class="viewmore">view more</a></div>
-                <div class="grid-item"><a class="viewmore">view more</a></div>
-                <div class="grid-item"><a class="viewmore">view more</a></div>
+                <div class="grid-item grid-item--width2"></div>
+                <div class="grid-item grid-item--height2"></div>
+                <div class="grid-item"></div>
+                <div class="grid-item"></div>
+                <div class="grid-item grid-item--width2 grid-item--height2"></div>
+                <div class="grid-item grid-item--width2"></div>
+                <div class="grid-item grid-item--width2"></div>
+                <div class="grid-item grid-item--height2"></div>
+                <div class="grid-item"></div>
+                <div class="grid-item grid-item--width2"></div>
+                <div class="grid-item grid-item--height2"></div>
+                <div class="grid-item"></div>
+                <div class="grid-item"></div>
+                <div class="grid-item grid-item--width2"></div>
+                <div class="grid-item grid-item--height2"></div>
+                <div class="grid-item"></div>
+                <div class="grid-item grid-item--width2"></div>
+                <div class="grid-item grid-item--height2"></div>
+                <div class="grid-item"></div>
+                <div class="grid-item"></div>
             </div>
 
 
