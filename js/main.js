@@ -8,8 +8,10 @@ $(document).ready(function(){
 
 var $grid = $('.grid').isotope({
     itemSelector: '.grid-item',
+    transitionDuration: 0,
     masonry: {
-        columnWidth: 100
+        columnWidth: 100,
+
     }
 });
 
