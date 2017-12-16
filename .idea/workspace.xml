@@ -13,7 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-<<<<<<< HEAD
+
     <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -96,7 +96,7 @@
       <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
+
             <state relative-caret-position="586">
               <caret line="152" column="1" lean-forward="true" selection-start-line="152" selection-start-column="1" selection-end-line="152" selection-end-column="1" />
 =======
@@ -211,14 +211,10 @@
       <updated>1512323726120</updated>
       <workItem from="1512323727326" duration="2039000" />
       <workItem from="1512390472161" duration="305000" />
-<<<<<<< HEAD
       <workItem from="1512391025170" duration="1701000" />
-=======
       <workItem from="1512391025170" duration="1667000" />
-<<<<<<< HEAD
       <workItem from="1512394715988" duration="1260000" />
       <workItem from="1512400550543" duration="1515000" />
-=======
       <workItem from="1512394715988" duration="632000" />
 >>>>>>> b65b4b4a632b168e82e3a28609623689fb3faab7
 >>>>>>> 1bb33397afde172eb9a51c70ad927b94a116ce3a
@@ -226,10 +222,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-<<<<<<< HEAD
+
     <option name="totallyTimeSpent" value="6786000" />
 =======
-<<<<<<< HEAD
+
     <option name="totallyTimeSpent" value="4045000" />
 =======
     <option name="totallyTimeSpent" value="4643000" />
@@ -380,17 +376,16 @@
         </state>
       </provider>
     </entry>
-<<<<<<< HEAD
+
 =======
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
+
         <state relative-caret-position="586">
           <caret line="152" column="1" lean-forward="true" selection-start-line="152" selection-start-column="1" selection-end-line="152" selection-end-column="1" />
 =======
         <state relative-caret-position="146">
           <caret line="152" column="1" lean-forward="false" selection-start-line="152" selection-start-column="1" selection-end-line="152" selection-end-column="1" />
->>>>>>> b65b4b4a632b168e82e3a28609623689fb3faab7
           <folding />
         </state>
       </provider>

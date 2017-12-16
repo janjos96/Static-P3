@@ -18,7 +18,7 @@
 
 
 
-    <section id="latestarticles">
+    <section id="latestarticles" >
 
             <h1>LATEST ARTICLES</h1>
 
