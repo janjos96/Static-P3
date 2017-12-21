@@ -27,7 +27,7 @@ body {
     float: left;
     width: 100px;
     height: 100px;
-    background: #0D8;
+    background: #999;
     border: 5px solid white;
     z-index: 5;
 }
@@ -43,5 +43,5 @@ body {
 .grid-item.gigante {
     width: 200px;
     height: 300px;
-    background: #F80;
+    background: #b9bbbe;
 }
