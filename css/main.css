@@ -232,6 +232,10 @@ nav ul {
     width: 100%
 }
 
+.squarecontent{
+    padding: 15px;
+}
+
 #imagemain{
     width: 100%;
 }

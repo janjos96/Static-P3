@@ -8,7 +8,6 @@
     <div class="force-overflow">
 <?php include 'parts/navbar.php' ?>
 
-<div id="language"><a>PT</a>/<a>ENG</a></div>
 
 <div class="contentarea">
 

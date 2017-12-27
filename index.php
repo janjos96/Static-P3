@@ -24,16 +24,33 @@
             <h1>LATEST ARTICLES</h1>
 
             <div class="grid">
-                <div class="grid-item grid-item--width2">Apocalipse Juggernaut, Hello!<br>
-                    <div class="viewmore">
-                    I tend to view the whole disaster as an opportunity to try stuff.<br>
+                <div class="grid-item grid-item--width2">
 
-                    <a href="article.php" >-View More</a>
-                    </div>
+                        <div class="squarecontent">Apocalipse Juggernaut, Hello!<br><br>
+                            <div class="viewmore">
+                                I tend to view the whole disaster as an opportunity to try stuff.<br><br>
+
+                                <a href="article.php" >View More</a>
+                            </div>
+                        </div>
                 </div>
 
 
-                <div class="grid-item grid-item--height2"><a href="article2.php" class="viewmore">A year from Monday</a></div>
+                <div class="grid-item grid-item--height2">
+                    <div class="squarecontent">A year from Monday<br><br>
+                        <div class="viewmore">
+                            The question is: Is my thought changing? It is and it
+                            isn't.<br><br>
+
+                            <a href="article2.php" >View More</a>
+                        </div>
+                    </div>
+
+                </div>
+
+
+
+
                 <div class="grid-item"><a class="viewmore" href="article3.php">Patterns in Nature</a></div>
                 <div class="grid-item"><a class="viewmore">view more</a></div>
                 <div class="grid-item grid-item--width2 grid-item--height2"><a class="viewmore">view more</a></div>
