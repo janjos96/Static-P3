@@ -225,8 +225,11 @@ nav ul {
 #language{
     position: fixed;
     z-index: 2;
-    top:20px;
-    right: 20px;
+  /*  top:20px;
+    right: 20px;*/
+
+    bottom: 20px;
+    width: 100%
 }
 
 #imagemain{

@@ -11,7 +11,7 @@
         <?php include 'parts/navbar.php' ?>
     </div>
     <div class="col-10">
-        <div id="language"><a>PT</a>/<a>ENG</a></div>
+      <!--  <div id="language"><a>PT</a>/<a>ENG</a></div>-->
 
         <div id=""><img id="imagemain" src="img/main.png" alt="main"></div>
 
@@ -24,7 +24,15 @@
             <h1>LATEST ARTICLES</h1>
 
             <div class="grid">
-                <div class="grid-item grid-item--width2"><a href="article.php" class="viewmore">Apocalipse Juggernaut, Hello!</a></div>
+                <div class="grid-item grid-item--width2">Apocalipse Juggernaut, Hello!<br>
+                    <div class="viewmore">
+                    I tend to view the whole disaster as an opportunity to try stuff.<br>
+
+                    <a href="article.php" >-View More</a>
+                    </div>
+                </div>
+
+
                 <div class="grid-item grid-item--height2"><a href="article2.php" class="viewmore">A year from Monday</a></div>
                 <div class="grid-item"><a class="viewmore" href="article3.php">Patterns in Nature</a></div>
                 <div class="grid-item"><a class="viewmore">view more</a></div>

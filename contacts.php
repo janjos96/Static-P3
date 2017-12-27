@@ -7,17 +7,30 @@
 
 <?php include 'parts/navbar.php' ?>
 
-<div id="language"><a>PT</a>/<a>ENG</a></div>
+<!--<div id="language"><a>PT</a>/<a>ENG</a></div>-->
 
 <div class="contentarea">
 
 
     <h1 id="tit">CONTACTS</h1>
 
-    <p>adress</p></br>
-    <p>king cross street</p>
-    <p>phone</p></br>
-    <p>54654655665</p>
+    <div id="address">
+        ADDRESS
+
+        Street
+        R Indústria Porta 104 <br>
+        City
+        Coja<br>
+        State Full
+        Coimbra<br>
+        Zip Code
+        3305-096
+        Phone Number<br>
+        21 239 329 1323
+
+
+
+    </div>
 
     <form action="envia.php" method="POST">
         <input type="text" name="name" placeholder="Name" required><br>

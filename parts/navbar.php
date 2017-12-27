@@ -20,6 +20,7 @@ echo '<nav>
                 </ul>
             </div>
         </li>
+        <div id="language"><a>PT</a>/<a>ENG</a></div>
     </ul>
 
 </nav>';
