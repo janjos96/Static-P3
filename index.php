@@ -4,7 +4,8 @@
 <?php include 'parts/head.php' ?>
 
 <body>
-
+<div class="scrollbar" id="style-3">
+    <div class="force-overflow">
 <div class="row">
     <div class="col-2">
         <?php include 'parts/navbar.php' ?>
@@ -111,5 +112,7 @@
 
 
 <script src="https://www.google-analytics.com/analytics.js" async defer></script>
+    </div>
+</div>
 </body>
 </html>
