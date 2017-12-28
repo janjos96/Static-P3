@@ -51,24 +51,20 @@
 
 
 
-                <div class="grid-item"><a class="viewmore" href="article3.php">Patterns in Nature</a></div>
-                <div class="grid-item"><a class="viewmore">view more</a></div>
+                <div class="grid-item grid-item--width2 grid-item--height2"><a class="viewmore" href="article3.php">Patterns in Nature</a></div>
                 <div class="grid-item grid-item--width2 grid-item--height2"><a class="viewmore">view more</a></div>
+                <div class="grid-item--width2 grid-item--height2"><a class="viewmore">view more</a></div>
                 <div class="grid-item grid-item--width2"><a class="viewmore">view more</a></div>
                 <div class="grid-item grid-item--width2"><a class="viewmore">view more</a></div>
                 <div class="grid-item grid-item--height2"><a class="viewmore">view more</a></div>
-                <div class="grid-item"><a class="viewmore">view more</a></div>
+                <div class="grid-item grid-item--width2"><a class="viewmore">view more</a></div>
                 <div class="grid-item grid-item--width2"><a class="viewmore">view more</a></div>
                 <div class="grid-item grid-item--height2"><a class="viewmore">view more</a></div>
-                <div class="grid-item"><a class="viewmore">view more</a></div>
-                <div class="grid-item"><a class="viewmore">view more</a></div>
+                <div class="grid-item grid-item--width2 grid-item--height2"><a class="viewmore">view more</a></div>
+                <div class="grid-item grid-item--height2"><a class="viewmore">view more</a></div>
                 <div class="grid-item grid-item--width2"><a class="viewmore">view more</a></div>
                 <div class="grid-item grid-item--height2"><a class="viewmore">view more</a></div>
-                <div class="grid-item"><a class="viewmore">view more</a></div>
-                <div class="grid-item grid-item--width2"><a class="viewmore">view more</a></div>
-                <div class="grid-item grid-item--height2"><a class="viewmore">view more</a></div>
-                <div class="grid-item"><a class="viewmore">view more</a></div>
-                <div class="grid-item"><a class="viewmore">view more</a></div>
+
             </div>
 
 
