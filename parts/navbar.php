@@ -1,6 +1,6 @@
 <?php
 
-echo '<nav>
+echo '<nav id="navb">
 
     <ul>
     <a href="index.php"><img id="title" src="img/logo.gaea.png" /></a>
