@@ -22,9 +22,9 @@
     <div class="col-10">
       <!--  <div id="language"><a>PT</a>/<a>ENG</a></div>-->
 
-<!--<img id="imagemain" src="img/main.png">-->
+<img id="imagemain" src="img/main.png">
 
-        <div data-relative-input="true" id="scene">
+        <!--   <div data-relative-input="true" id="scene">
             <div><img id="imagemain" src="img/paralaxlayers/0.png"></div>
             <div data-depth="0.2"><img id="imagemain" src="img/paralaxlayers/6.png"></div>
             <div data-depth="0.3"><img id="imagemain" src="img/paralaxlayers/5.png"></div>
@@ -35,7 +35,7 @@
 
 
 
-        </div>
+        </div>-->
 
 
 
