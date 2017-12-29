@@ -4,8 +4,11 @@
 <?php include 'parts/head.php' ?>
 
 <body>
+
 <div class="scrollbar" id="style-3">
     <div class="force-overflow">
+
+
 <div class="row">
     <div class="col-2">
         <?php include 'parts/navbar.php' ?>
@@ -13,7 +16,9 @@
     <div class="col-10">
       <!--  <div id="language"><a>PT</a>/<a>ENG</a></div>-->
 
-        <div id=""><img id="imagemain" src="img/main.png" alt="main"></div>
+
+        <img id="imagemain" src="img/main.png" alt="main">
+
 
 
 
