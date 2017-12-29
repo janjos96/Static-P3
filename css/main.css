@@ -116,6 +116,7 @@ nav {
     margin: 25px;
     position: fixed;
    /* background-color: #cbcfd6;*/
+   /* border: 1px solid black;*/
 
 
 }
@@ -174,6 +175,8 @@ nav ul {
 #tit{
     padding: 0;
     margin: 0;
+    margin-top: 25px;
+    margin-bottom: 25px;
 
 }
 
@@ -258,13 +261,48 @@ nav ul {
 .contentarea{
     width: 80%;
     float: right;
-    margin-top: 50px;
+    margin-top: 28px;
     padding-right: 50px;
     z-index: -1;
 
 }
 
+/*CONTACTS CSS*/
 
+#address{
+
+    font-size: 2vw;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    text-align: center;
+
+}
+
+.emailform{
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    text-align: center;
+    margin-top: 80px;
+}
+
+.emailform input{
+    width: 60%;
+    height: 40px;
+    margin: 10px;
+    background-color: white;
+    border: 1px solid gray;
+
+}
+
+#messageBox{
+height: 200px;
+
+
+}
+
+/*-----------------------------------*/
 footer{
     margin-top: 50px;
     border-top: 1px solid black;
