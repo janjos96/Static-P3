@@ -8,6 +8,7 @@ $(document).ready(function(){
         limitX: false,
         limitY: false,
 
+
     });
 
 
