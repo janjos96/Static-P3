@@ -15,9 +15,9 @@
     <h1 id="tit">ARTICLES</h1>
 
     <div class="grid">
-        <div class="grid-item grid-item--width2"></div>
-        <div class="grid-item grid-item--height2"></div>
-        <div class="grid-item"></div>
+        <div class="grid-item grid-item--width2"><a href="article.php" class="viewmore">Apocalipse Juggernaut, Hello!</a></div>
+        <div class="grid-item grid-item--height2"><a href="article2.php" class="viewmore">A year from Monday</a></div>
+        <div class="grid-item"><a class="viewmore" href="article3.php">Patterns in Nature</a></div>
         <div class="grid-item"></div>
         <div class="grid-item grid-item--width2 grid-item--height2"></div>
         <div class="grid-item grid-item--width2"></div>
