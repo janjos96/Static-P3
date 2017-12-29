@@ -48,7 +48,8 @@
 </head>
 
 <body>
-
+<div class="scrollbar" id="style-3">
+    <div class="force-overflow">
 <div class="row">
     <div class="col-2">
         <?php include 'parts/navbar.php' ?>
@@ -138,5 +139,8 @@
         });
     });
 </script>
+
+    </div>
+</div>
 </body>
 </html>

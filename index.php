@@ -5,16 +5,37 @@
 
 <body>
 
+<div class="scrollbar" id="style-3">
+    <div class="force-overflow">
+
+
+
+
+
 <div class="row">
+
     <div class="col-2">
         <?php include 'parts/navbar.php' ?>
     </div>
+
+
     <div class="col-10">
-        <div id="language"><a>PT</a>/<a>ENG</a></div>
+      <!--  <div id="language"><a>PT</a>/<a>ENG</a></div>-->
 
-        <div id=""><img id="imagemain" src="img/main.png" alt="main"></div>
+<!--<img id="imagemain" src="img/main.png">-->
+
+        <div data-relative-input="true" id="scene">
+            <div><img id="imagemain" src="img/paralaxlayers/0.png"></div>
+            <div data-depth="0.2"><img id="imagemain" src="img/paralaxlayers/6.png"></div>
+            <div data-depth="0.3"><img id="imagemain" src="img/paralaxlayers/5.png"></div>
+            <div data-depth="0.6"><img id="imagemain" src="img/paralaxlayers/4.png"></div>
+            <div data-depth="0.4"><img id="imagemain" src="img/paralaxlayers/1.png"></div>
+            <div data-depth="0.2"><img id="imagemain" src="img/paralaxlayers/2.png"></div>
+            <div data-depth="0.1"><img id="imagemain" src="img/paralaxlayers/3.png"></div>
 
 
+
+        </div>
 
 
 
@@ -23,26 +44,47 @@
             <h1>LATEST ARTICLES</h1>
 
             <div class="grid">
-                <div class="grid-item grid-item--width2"><a href="article.php" class="viewmore">Apocalipse Juggernaut, Hello!</a></div>
-                <div class="grid-item grid-item--height2"><a href="article2.php" class="viewmore">A year from Monday</a></div>
-                <div class="grid-item"><a class="viewmore" href="article3.php">Patterns in Nature</a></div>
-                <div class="grid-item"><a class="viewmore">view more</a></div>
+                <div class="grid-item grid-item--width2">
+
+                        <div class="squarecontent">Apocalipse Juggernaut, Hello!<br><br>
+                            <div class="viewmore">
+                                I tend to view the whole disaster as an opportunity to try stuff.<br><br>
+
+                                <a href="article.php" >View More</a>
+                            </div>
+                        </div>
+                </div>
+
+
+                <div class="grid-item grid-item--height2">
+                    <div class="squarecontent">A year from Monday<br><br>
+                        <div class="viewmore">
+                            The question is: Is my thought changing? It is and it
+                            isn't.<br><br>
+
+                            <a href="article2.php" >View More</a>
+                        </div>
+                    </div>
+
+                </div>
+
+
+
+
+                <div class="grid-item grid-item--width2 grid-item--height2"><a class="viewmore" href="article3.php">Patterns in Nature</a></div>
                 <div class="grid-item grid-item--width2 grid-item--height2"><a class="viewmore">view more</a></div>
+                <div class="grid-item--width2 grid-item--height2"><a class="viewmore">view more</a></div>
                 <div class="grid-item grid-item--width2"><a class="viewmore">view more</a></div>
                 <div class="grid-item grid-item--width2"><a class="viewmore">view more</a></div>
                 <div class="grid-item grid-item--height2"><a class="viewmore">view more</a></div>
-                <div class="grid-item"><a class="viewmore">view more</a></div>
+                <div class="grid-item grid-item--width2"><a class="viewmore">view more</a></div>
                 <div class="grid-item grid-item--width2"><a class="viewmore">view more</a></div>
                 <div class="grid-item grid-item--height2"><a class="viewmore">view more</a></div>
-                <div class="grid-item"><a class="viewmore">view more</a></div>
-                <div class="grid-item"><a class="viewmore">view more</a></div>
+                <div class="grid-item grid-item--width2 grid-item--height2"><a class="viewmore">view more</a></div>
+                <div class="grid-item grid-item--height2"><a class="viewmore">view more</a></div>
                 <div class="grid-item grid-item--width2"><a class="viewmore">view more</a></div>
                 <div class="grid-item grid-item--height2"><a class="viewmore">view more</a></div>
-                <div class="grid-item"><a class="viewmore">view more</a></div>
-                <div class="grid-item grid-item--width2"><a class="viewmore">view more</a></div>
-                <div class="grid-item grid-item--height2"><a class="viewmore">view more</a></div>
-                <div class="grid-item"><a class="viewmore">view more</a></div>
-                <div class="grid-item"><a class="viewmore">view more</a></div>
+
             </div>
 
 
@@ -111,5 +153,7 @@
 
 
 <script src="https://www.google-analytics.com/analytics.js" async defer></script>
+    </div>
+</div>
 </body>
 </html>

@@ -1,9 +1,44 @@
 $(document).ready(function(){
 
+    //START PARALLAX
+
+
+    var scene = document.getElementById('scene');
+    var parallaxInstance = new Parallax(scene , {
+        limitX: false,
+        limitY: false,
+
+    });
+
+
+    //------------------------------------------------//
+
+   if (location.pathname === '/Static-P3/index.php'){
+
+       $("#navb").css("display", "none");
+
+   }
 
 
 
-//isotype js
+    $(".scrollbar").scroll(function(){
+
+        console.log($(this).scrollTop());
+
+        if($(this).scrollTop() >= 800){
+
+            $("#navb").css("display", "block");
+
+        } else {
+            $("#navb").css("display", "none");
+
+        }
+    });
+
+
+//-----------------------------------------------------------//
+
+//ISOTYPE JS
 
 
 var $grid = $('.grid').isotope({
@@ -26,24 +61,6 @@ $grid.on( 'click', '.grid-item', function() {
 
 });
 
-
-
-
-    var scrollPos = 0;
-    var Counter = 0;
-    $(window).scroll(function(){
-        var scrollPosCur = $(this).scrollTop();
-        if (scrollPosCur > scrollPos) {
-            Counter += 1;
-            console.log(Counter);
-
-        } else {
-            Counter -= 1;
-            console.log(Counter);
-
-
-        }
-        scrollPos = scrollPosCur;
-    });
+//------------------------------------------------------------//
 
 });
