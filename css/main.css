@@ -119,9 +119,11 @@ body{
   /* border: 1px solid black;*/
     border-left: 1px solid black;
    /* z-index: 20;*/
-    display: none ;
+    display: block ;
 
 }
+
+
 
 #imagemain{
     width: 100vw;
