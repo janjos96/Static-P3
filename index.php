@@ -25,12 +25,12 @@
 <!--<img id="imagemain" src="img/main.png">-->
 
         <div data-relative-input="true" id="scene">
-            <div><img id="imagemain" src="img/paralaxlayers/0.1-1.1.png"></div>
+           <!-- <div><img id="imagemain" src="img/paralaxlayers/0.1-1.1.png"></div>-->
             <div data-depth="0.3"><img id="imagemain" src="img/paralaxlayers/7.png"></div>
             <div data-depth="0.2"><img id="imagemain" src="img/paralaxlayers/6.png"></div>
             <div data-depth="0.3"><img id="imagemain" src="img/paralaxlayers/5.png"></div>
             <div data-depth="0.6"><img id="imagemain" src="img/paralaxlayers/4.png"></div>
-           <!-- <div data-depth="0"><img id="imagemain" src="img/paralaxlayers/1.png"></div>-->
+           <div data-depth="0"><img id="imagemain" src="img/paralaxlayers/1.1.png"></div>
             <div data-depth="0.7"><img id="imagemain" src="img/paralaxlayers/2.png"></div>
             <div data-depth="0.8"><img id="imagemain" src="img/paralaxlayers/3.png"></div>
 
