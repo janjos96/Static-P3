@@ -125,11 +125,17 @@ body{
 
 
 
-#imagemain{
+.imagemain{
+    width: 110vw;
+   margin-left: -18%;
+    margin-top: -5%;
+
+
+}
+#logo{
     width: 100vw;
-   margin-left: -21%;
-
-
+    margin-left: -21%;
+    margin-top: 0;
 }
 
 
@@ -308,6 +314,8 @@ height: 200px;
 
 
 }
+
+
 
 /*-----------------------------------*/
 footer{
