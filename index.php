@@ -38,6 +38,8 @@
                 <li class="mainnav"><a href="articles.php">Articles</a></li>
                 <li class="mainnav"><a href="contacts.php">Contacts</li></a></li>
                 <li class="mainnav"><a href="shop.php">Shop</a></li>
+                <li class="mainnav social"><a><i class="fa fa-facebook-square fa-2x" aria-hidden="true"></i></a></li>
+                <li class="mainnav social"><a> <i class="fa fa-instagram fa-2x" aria-hidden="true"></i></a></li>
 
             </ul>
 
