@@ -347,6 +347,13 @@ height: 200px;
 .editionsphoto{
 
     width: 200px;
+
+}
+.edsize{
+    float: left;
+    margin-right: 20px;
+    margin-top: 20px;
+
 }
 
 /*---------------------------------------------------*/
@@ -358,6 +365,7 @@ footer{
     padding-top: 25px;
     padding-bottom: 25px;
     width: 100%;
+    clear: both;
 }
 
 footer p{

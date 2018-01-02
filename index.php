@@ -123,31 +123,45 @@
     <section id="latesteditions">
         <h1>EDITIONS</h1>
 
-        <div class="grid">
-            <div class="grid-item grid-item--width2"></div>
-            <div class="grid-item grid-item--height2"></div>
-            <div class="grid-item"></div>
-            <div class="grid-item"></div>
-            <div class="grid-item grid-item--width2 grid-item--height2"></div>
-            <div class="grid-item grid-item--width2"></div>
-            <div class="grid-item grid-item--width2"></div>
-            <div class="grid-item grid-item--height2"></div>
-            <div class="grid-item"></div>
-            <div class="grid-item grid-item--width2"></div>
-            <div class="grid-item grid-item--height2"></div>
-            <div class="grid-item"></div>
-            <div class="grid-item"></div>
-            <div class="grid-item grid-item--width2"></div>
-            <div class="grid-item grid-item--height2"></div>
-            <div class="grid-item"></div>
-            <div class="grid-item grid-item--width2"></div>
-            <div class="grid-item grid-item--height2"></div>
-            <div class="grid-item"></div>
-            <div class="grid-item"></div>
+
+
+        <div class="edsize">
+            <img class="editionsphoto" src="img/editions/issue1.jpg">
+            <figcaption>Issue 1</figcaption>
+            <br><br>
+        </div>
+
+        <div class="edsize">
+            <img class="editionsphoto" src="img/editions/issue1.jpg">
+            <figcaption>Issue 1</figcaption>
+            <br><br>
+        </div>
+
+        <div class="edsize">
+            <img class="editionsphoto" src="img/editions/issue1.jpg">
+            <figcaption>Issue 1</figcaption>
+            <br><br>
+        </div>
+
+        <div class="edsize">
+            <img class="editionsphoto" src="img/editions/issue1.jpg">
+            <figcaption>Issue 1</figcaption>
+            <br><br>
+        </div>
+
+        <div class="edsize">
+            <img class="editionsphoto" src="img/editions/issue1.jpg">
+            <figcaption>Issue 1</figcaption>
+            <br><br>
         </div>
 
 
+
+
+
+
     </section>
+
     <footer>
         <p>GAEA® is a registered trademark.</p>
 
