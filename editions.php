@@ -6,11 +6,14 @@
 <body>
 <div class="scrollbar" id="style-3">
     <div class="force-overflow">
-<?php include 'parts/navbar.php' ?>
+        <div class="row">
+
+            <div class="col-2">
+                <?php include 'parts/navbar.php' ?>
+            </div>
 
 
-<div class="contentarea">
-
+            <div class="col-10">
 
     <h1 id="tit">EDITIONS</h1>
     <img class="editionsphoto" src="img/editions/issue1.jpg">

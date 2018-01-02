@@ -1,15 +1,6 @@
 $(document).ready(function(){
 
-    //START PARALLAX
 
-
-    var scene = document.getElementById('scene');
-    var parallaxInstance = new Parallax(scene , {
-        limitX: false,
-        limitY: false,
-
-
-    });
 
 
     //------------------------------------------------//
@@ -18,25 +9,32 @@ $(document).ready(function(){
 
        $("#navb").css("display", "none");
 
+
+       $(".scrollbar").scroll(function(){
+
+           console.log($(this).scrollTop());
+
+           if($(this).scrollTop() >= 780){
+
+               /*  $("#navb").css("display", "block");*/
+               $("#navb").fadeIn(1000);
+
+           } else {
+               $("#navb").css("display", "none");
+
+           }
+       });
+
+
+
+   }else{
+       $("#navb").css("display", "block");
    }
 
 
 
 
-    $(".scrollbar").scroll(function(){
 
-        console.log($(this).scrollTop());
-
-        if($(this).scrollTop() >= 780){
-
-          /*  $("#navb").css("display", "block");*/
-            $("#navb").fadeIn(1000);
-
-        } else {
-            $("#navb").css("display", "none");
-
-        }
-    });
 
 
 //-----------------------------------------------------------//
@@ -66,4 +64,15 @@ $grid.on( 'click', '.grid-item', function() {
 
 //------------------------------------------------------------//
 
+    //START PARALLAX
+
+
+    var scene = document.getElementById('scene');
+
+    var parallaxInstance = new Parallax(scene , {
+        limitX: false,
+        limitY: false,
+
+    });
+  /*------------------------------------------*/
 });
