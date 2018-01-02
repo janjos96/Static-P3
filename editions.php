@@ -13,7 +13,8 @@
 
 
     <h1 id="tit">EDITIONS</h1>
-
+    <img class="editionsphoto" src="img/editions/issue1.jpg">
+    <figcaption>Issue 1</figcaption>
 
 
     <footer>
