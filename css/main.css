@@ -123,6 +123,27 @@ body{
 
 }
 
+#mainnav {
+
+    width: 150px;
+    margin-left: 60%;
+    margin-top: 8%;
+    font-size: 1.5vw;
+    position: absolute;
+    display: block ;
+
+}
+
+#mainnav ul, li {
+    margin: 0;
+    padding: 0;
+    margin-left: 5px;
+    margin-top: -9px;
+
+
+}
+
+
 
 
 .imagemain{
@@ -280,23 +301,23 @@ nav ul {
 
 }
 
-/*CONTACTS CSS*/
+/*--------------------CONTACTS CSS-------------------*/
 
 #address{
 
     font-size: 2vw;
-    margin-left: auto;
+ /*   margin-left: auto;
     margin-right: auto;
     width: 90%;
-    text-align: center;
+    text-align: center;*/
 
 }
 
 .emailform{
-    margin-left: auto;
+/*    margin-left: auto;
     margin-right: auto;
     width: 90%;
-    text-align: center;
+    text-align: center;*/
     margin-top: 80px;
 }
 
@@ -304,6 +325,7 @@ nav ul {
     width: 60%;
     height: 40px;
     margin: 10px;
+    margin-left: 0;
     background-color: white;
     border: 1px solid gray;
 

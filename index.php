@@ -20,9 +20,27 @@
 
 
     <div class="col-10">
-      <!--  <div id="language"><a>PT</a>/<a>ENG</a></div>-->
 
-<!--<img id="imagemain" src="img/main.png">-->
+
+        <!---------------------------------- MAIN NAVBAR ---------------------------------------->
+
+
+        <nav id="mainnav">
+
+            <ul>
+
+                <li class="mainnav"><a href="about.php">About</a></li>
+                <li class="mainnav"><a href="editions.php">Editions</a> </li>
+                <li class="mainnav"><a href="articles.php">Articles</a></li>
+                <li class="mainnav"><a href="contacts.php">Contacts</li></a></li>
+                <li class="mainnav"><a href="shop.php">Shop</a></li>
+
+            </ul>
+
+        </nav>
+
+
+        <!--------------------------------------------------------------------------------------->
 
         <div data-relative-input="true" id="scene">
            <!-- <div><img id="imagemain" src="img/paralaxlayers/0.1-1.1.png"></div>-->

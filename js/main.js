@@ -22,13 +22,15 @@ $(document).ready(function(){
 
 
 
+
     $(".scrollbar").scroll(function(){
 
         console.log($(this).scrollTop());
 
-        if($(this).scrollTop() >= 800){
+        if($(this).scrollTop() >= 780){
 
-            $("#navb").css("display", "block");
+          /*  $("#navb").css("display", "block");*/
+            $("#navb").fadeIn(1000);
 
         } else {
             $("#navb").css("display", "none");
