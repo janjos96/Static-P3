@@ -9,15 +9,46 @@
         <div class="row">
 
             <div class="col-2">
+
                 <?php include 'parts/navbar.php' ?>
+                <?php include 'parts/responsivenavbar.php' ?>
+
             </div>
 
 
             <div class="col-10">
 
     <h1 id="tit">EDITIONS</h1>
-    <img class="editionsphoto" src="img/editions/issue1.jpg">
-    <figcaption>Issue 1</figcaption>
+
+                <div class="edsize">
+                    <img class="editionsphoto" src="img/editions/issue1.jpg">
+                    <figcaption>Issue 1</figcaption>
+                    <br><br>
+                </div>
+
+                <div class="edsize">
+                    <img class="editionsphoto" src="img/editions/issue1.jpg">
+                    <figcaption>Issue 1</figcaption>
+                    <br><br>
+                </div>
+
+                <div class="edsize">
+                    <img class="editionsphoto" src="img/editions/issue1.jpg">
+                    <figcaption>Issue 1</figcaption>
+                    <br><br>
+                </div>
+
+                <div class="edsize">
+                    <img class="editionsphoto" src="img/editions/issue1.jpg">
+                    <figcaption>Issue 1</figcaption>
+                    <br><br>
+                </div>
+
+                <div class="edsize">
+                    <img class="editionsphoto" src="img/editions/issue1.jpg">
+                    <figcaption>Issue 1</figcaption>
+                    <br><br>
+                </div>
 
 
     <footer>

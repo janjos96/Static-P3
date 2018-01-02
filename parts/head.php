@@ -12,6 +12,7 @@ print '<head>
 
     <link rel="stylesheet" href="css/normalize.css">
     <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/responsive.css">
     <link rel="stylesheet" href="css/isotype.css">
     <link rel="stylesheet" type="text/css" href="css/font-awesome.min.css">
     <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">

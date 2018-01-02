@@ -6,20 +6,29 @@
 <body>
 <div class="scrollbar" id="style-3">
     <div class="force-overflow">
-<?php include 'parts/navbar.php' ?>
+        <div class="row">
+            <div class="col-2">
 
+                <?php include 'parts/navbar.php' ?>
+                <?php include 'parts/responsivenavbar.php' ?>
 
-
-
-
-
-
-<div class="contentarea">
+            </div>
+            <div class="col-10">
 
 
     <h1 id="tit">ABOUT</h1>
 
+<p>Recuando aos primórdios da humanidade, qualquer invenção
+    humana era inspirada puramente em função da natureza. À medida
+    que o homem foi evoluindo nesse sentido, as construções anteriores passaram a fazer parte da
+    sua própria inspiração. A natureza deixou de ser a única fonte de conhecimento porque o ambiente à
+    sua volta deixou de ser unicamente natureza. Este conhecimento foi- se alterando e moldando às suas
+    próprias criações.
 
+    Tendo isto em conta, a superfície do planeta terra é a maior obra coletiva da humanidade. A terra
+    tal como a conhecemos na atualidade é um conjunto de intervenções humanas. Esta revista
+    tem por objetivo analisar a forma como o homem contribuiu para as mudanças na superfície terrestre
+    e a forma como estas mudanças intervieram em diferentes disciplinas inerentes ao homem, como o design e a tecnologia.</p>
 
     <footer>
         <p>GAEA® is a registered trademark.</p>

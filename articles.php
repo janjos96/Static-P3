@@ -10,7 +10,10 @@
         <div class="row">
 
             <div class="col-2">
+
                 <?php include 'parts/navbar.php' ?>
+                <?php include 'parts/responsivenavbar.php' ?>
+
             </div>
 
 

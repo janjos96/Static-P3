@@ -1,8 +1,46 @@
 $(document).ready(function(){
 
+//-------------------------RESPONSIVE NAV-------------------------//
+
+    var count = 0;
+
+    if (count === 0){
+        $("#responsive_nav ul").css("display", "none");
+
+    } else {
+        $("#responsive_nav ul").css("display", "block");
+    }
+
+
+    $("#btn").click(function(){
+
+        if (count % 2 === 0) {
+            $("#responsive_nav ul").slideDown(0);
+            $("#responsive_nav").css("height", "100vh");
+            $(this).css("transform", " rotate(180deg)");
+
+            count+=1;
+        }else{
+
+
+            $("#responsive_nav ul").slideUp(0);
+            $("#responsive_nav ").css("height", "10vh");
+            $(this).css("transform", " rotate(360deg)");
+
+            count+=1;
+        }
 
 
 
+    });
+
+    if (window.innerWidth <= 600) {
+
+        $("#navb ").css("display", "none");
+    } else {
+        $("#responsive_nav ").css("display", "none");
+
+    }
     //------------------------------------------------//
 
    if (location.pathname === '/Static-P3/index.php'){
