@@ -1,4 +1,10 @@
+
+
 $(document).ready(function(){
+
+
+
+
 
 //-------------------------RESPONSIVE NAV-------------------------//
 
@@ -50,6 +56,8 @@ $(document).ready(function(){
 
        $(".scrollbar").scroll(function(){
 
+           $(".KW_progressBar").css("height",$(this).scrollTop());
+
            console.log($(this).scrollTop());
 
            if($(this).scrollTop() >= 780){
@@ -72,7 +80,14 @@ $(document).ready(function(){
 
 
 
+    $(".scrollbar").scroll(function() {
 
+        var scroll = $(this).scrollTop()/2.6;
+
+        $(".KW_progressBar").css("height", scroll );
+
+
+    });
 
 
 //-----------------------------------------------------------//
@@ -100,6 +115,7 @@ $grid.on( 'click', '.grid-item', function() {
 
 });
 
+
 //------------------------------------------------------------//
 
     //START PARALLAX
@@ -114,3 +130,5 @@ $grid.on( 'click', '.grid-item', function() {
     });
   /*------------------------------------------*/
 });
+
+
