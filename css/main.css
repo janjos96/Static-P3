@@ -388,7 +388,7 @@ footer p{
 .scrollbar {
     margin-left: 10px;
 
-   
+
     height: 100vh;
     width: 100vw;
     background: white;
@@ -434,7 +434,7 @@ footer p{
     z-index: 5000;
     top: 0;
     right: 0;
-    background-color: white;
+  
 }
 
 .KW_progressBar {
