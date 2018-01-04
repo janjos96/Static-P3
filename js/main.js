@@ -40,13 +40,18 @@ $(document).ready(function(){
 
     });
 
+
     if (window.innerWidth <= 600) {
 
         $("#navb ").css("display", "none");
+
     } else {
+
         $("#responsive_nav ").css("display", "none");
 
     }
+
+    
     //------------------------------------------------//
 
    if (location.pathname === '/Static-P3/index.php'){
@@ -56,9 +61,7 @@ $(document).ready(function(){
 
        $(".scrollbar").scroll(function(){
 
-           $(".KW_progressBar").css("height",$(this).scrollTop());
 
-           console.log($(this).scrollTop());
 
            if($(this).scrollTop() >= 780){
 
@@ -80,12 +83,17 @@ $(document).ready(function(){
 
 
 
+
     $(".scrollbar").scroll(function() {
 
-        var scroll = $(this).scrollTop()/2.6;
+        var scroll_height = $(".force-overflow").height();
+        var window_height = $(window).height();
+        var scroll_top = $(this).scrollTop();
 
-        $(".KW_progressBar").css("height", scroll );
 
+        var totalScroll = (scroll_top / (scroll_height - window_height) * 100);
+
+        $(".KW_progressBar").css("height", totalScroll + "vh" );
 
     });
 

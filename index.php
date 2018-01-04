@@ -180,14 +180,10 @@
 
 
 
-      <div class="KW_progressContainer">
-            <div class="KW_progressBar">
-
-            </div>
-        </div>
 
 
 
+        <?php include 'parts/scroll.php' ?>
 
 </body>
 </html>
