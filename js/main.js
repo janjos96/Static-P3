@@ -8,17 +8,17 @@ $(document).ready(function () {
 
     if (window.innerWidth < 600) {
 
-        $("#navb ").css("display", "none");
+        $("#navb ").css(" visibility", "hidden");
 
         var count = 0;
 
 
         if (count === 0) {
-            $("#responsive_nav ul").css("display", "none");
+            $("#responsive_nav ul").css(" visibility", "hidden");
 
         } else {
 
-            $("#responsive_nav ul").css("display", "block");
+            $("#responsive_nav ul").css(" visibility", "visible");
 
         }
 
@@ -48,7 +48,7 @@ $(document).ready(function () {
 
     } else {
 
-        $("#responsive_nav ").css("display", "none");
+        $("#responsive_nav ").css("visibility", "hidden");
 
     }
 
@@ -57,7 +57,7 @@ $(document).ready(function () {
 
     if (location.pathname === '/Static-P3/index.php') {
 
-        $("#navb").css("display", "none");
+        $("#navb").css("visibility", "hidden");
 
 
         $(".scrollbar").scroll(function () {
@@ -66,18 +66,18 @@ $(document).ready(function () {
             if ($(this).scrollTop() >= 780) {
 
                 /*  $("#navb").fadeIn(0);*/
-                $("#navb").css("display", "block");
+                $("#navb").css("visibility", "visible");
 
 
             } else {
-                $("#navb").css("display", "none");
+                $("#navb").css("visibility", "hidden");
 
             }
         });
 
 
     } else {
-        $("#navb").css("display", "block");
+        $("#navb").css("visibility", "visible");
     }
 
 

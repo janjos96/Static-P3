@@ -1,5 +1,5 @@
 #responsive_nav {
-    display: none;
+    visibility: hidden;
 }
 
 
@@ -13,7 +13,7 @@
         width: 100vw;
         height: 10vh;
         text-align: center;
-        display: block;
+        visibility: visible;
 
     }
 
@@ -28,6 +28,16 @@
     #responsive_nav a {
         text-decoration: none;
         color: #000;
+    }
+
+
+    #navb {
+
+        visibility: hidden;
+    }
+
+    #mainnav {
+        visibility: hidden;
     }
 
 }
