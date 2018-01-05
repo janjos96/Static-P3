@@ -387,13 +387,12 @@ footer p{
 
 .scrollbar {
     margin-left: 10px;
-
-
     height: 100vh;
     width: 100vw;
     background: white;
     overflow-y: scroll;
     overflow-x: hidden;
+    float: right;
 
 
 }
@@ -407,19 +406,25 @@ footer p{
 /* STYLE*/
 
 #style-3::-webkit-scrollbar-track {
-    -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
-    background-color: #F5F5F5;
+
+   /* background-color: #F5F5F5;*/
+    background-color: white;
+    color: white;
 
 }
 
 #style-3::-webkit-scrollbar {
     width: 10px;
-    background-color: #F5F5F5;
+  /*  background-color: #F5F5F5;*/
+    background-color: white;
+    color: white;
 
 }
 
 #style-3::-webkit-scrollbar-thumb {
-    background-color: #000000;
+  /*  background-color: #000000;*/
+    background-color: white;
+    color: white;
 
 }
 
