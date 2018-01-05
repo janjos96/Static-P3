@@ -40,7 +40,7 @@
 
     #navb {
 
-        visibility: hidden;
+       display:none;
     }
 
     #mainnav {
