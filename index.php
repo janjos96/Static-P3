@@ -184,6 +184,6 @@
 
 
         <?php include 'parts/scroll.php' ?>
-
+        <script src="js/hidescrollmain.js"></script>
 </body>
 </html>

@@ -1,5 +1,5 @@
 #responsive_nav {
-    visibility: hidden;
+    display: none;
 }
 
 
@@ -13,9 +13,16 @@
         width: 100vw;
         height: 10vh;
         text-align: center;
-        visibility: visible;
+        display: block;
 
     }
+
+  /*  #responsive_nav ul {
+
+
+        display: none;
+
+    }*/
 
     #responsive_nav li {
 
