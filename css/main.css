@@ -408,23 +408,26 @@ footer p{
 #style-3::-webkit-scrollbar-track {
 
    /* background-color: #F5F5F5;*/
-    background-color: white;
-    color: white;
+    background-color:rgba(255,255,255,0);
+
+
 
 }
 
 #style-3::-webkit-scrollbar {
-    width: 10px;
+    width: 0px;
   /*  background-color: #F5F5F5;*/
-    background-color: white;
-    color: white;
+    background-color:rgba(255,255,255,0);
+
+
 
 }
 
 #style-3::-webkit-scrollbar-thumb {
   /*  background-color: #000000;*/
-    background-color: white;
-    color: white;
+    background-color:rgba(255,255,255,0);
+
+
 
 }
 
