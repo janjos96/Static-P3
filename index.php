@@ -66,7 +66,7 @@
            <!-- <div data-depth="0.6"><img class="imagemain" src="img/paralaxlayers/14.png"></div>
             <div data-depth="0.2"><img class="imagemain" src="img/paralaxlayers/13.png"></div>-->
 
-            
+
 
 
         </div>
