@@ -83,7 +83,7 @@
         </section>
 
     </div>
-    <div class="col-1"><a>PT</a>/<a>ENG</a></div>
+
 </div>
 
 <footer>

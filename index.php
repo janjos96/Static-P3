@@ -5,33 +5,72 @@
 
 <body>
 
+
+
 <div class="scrollbar" id="style-3">
     <div class="force-overflow">
 
 
-
-
-
 <div class="row">
 
+
     <div class="col-2">
+
         <?php include 'parts/navbar.php' ?>
+        <?php include 'parts/responsivenavbar.php' ?>
+
     </div>
 
 
     <div class="col-10">
-      <!--  <div id="language"><a>PT</a>/<a>ENG</a></div>-->
 
-<img id="imagemain" src="img/main.png">
 
-        <!--   <div data-relative-input="true" id="scene">
-            <div><img id="imagemain" src="img/paralaxlayers/0.png"></div>
-            <div data-depth="0.2"><img id="imagemain" src="img/paralaxlayers/6.png"></div>
-            <div data-depth="0.3"><img id="imagemain" src="img/paralaxlayers/5.png"></div>
-            <div data-depth="0.6"><img id="imagemain" src="img/paralaxlayers/4.png"></div>
-            <div data-depth="0.4"><img id="imagemain" src="img/paralaxlayers/1.png"></div>
-            <div data-depth="0.2"><img id="imagemain" src="img/paralaxlayers/2.png"></div>
-            <div data-depth="0.1"><img id="imagemain" src="img/paralaxlayers/3.png"></div>
+
+        <!---------------------------------- MAIN NAVBAR ---------------------------------------->
+
+
+        <nav id="mainnav">
+
+            <ul>
+
+                <li class="mainnav"><a href="about.php">About</a></li>
+                <li class="mainnav"><a href="editions.php">Editions</a> </li>
+                <li class="mainnav"><a href="articles.php">Articles</a></li>
+                <li class="mainnav"><a href="contacts.php">Contacts</li></a></li>
+                <li class="mainnav"><a href="shop.php">Shop</a></li>
+               
+            </ul>
+
+        </nav>
+
+
+        <!--------------------------------------------------------------------------------------->
+
+        <div data-relative-input="true" id="scene">
+           <!-- <div><img id="imagemain" src="img/paralaxlayers/0.1-1.1.png"></div>-->
+            <div data-depth="0.3"><img class="imagemain" src="img/paralaxlayers/7.png"></div>
+            <div data-depth="0.2"><img class="imagemain" src="img/paralaxlayers/6.png"></div>
+            <div data-depth="0.3"><img class="imagemain" src="img/paralaxlayers/5.png"></div>
+            <div data-depth="0.6"><img class="imagemain" src="img/paralaxlayers/4.png"></div>
+            <div data-depth="0"><img class="imagemain" id="logo" src="img/paralaxlayers/1.1.png"></div>
+
+            <div data-depth="0.8"><img class="imagemain" src="img/paralaxlayers/3.png"></div>
+            <div data-depth="0.7"><img class="imagemain" src="img/paralaxlayers/2.png"></div>
+
+            <div data-depth="0.2"><img class="imagemain" src="img/paralaxlayers/12.png"></div>
+            <div data-depth="0.8"><img class="imagemain" src="img/paralaxlayers/11.png"></div>
+            <div data-depth="0.6"><img class="imagemain" src="img/paralaxlayers/10.png"></div>
+            <div data-depth="0.4"><img class="imagemain" src="img/paralaxlayers/9.png"></div>
+            <div data-depth="0.2"><img class="imagemain" src="img/paralaxlayers/8.png"></div>
+
+           <!-- <div data-depth="0.6"><img class="imagemain" src="img/paralaxlayers/14.png"></div>
+            <div data-depth="0.2"><img class="imagemain" src="img/paralaxlayers/13.png"></div>-->
+
+
+
+
+
+
 
 
 
@@ -73,17 +112,26 @@
 
                 <div class="grid-item grid-item--width2 grid-item--height2"><a class="viewmore" href="article3.php">Patterns in Nature</a></div>
                 <div class="grid-item grid-item--width2 grid-item--height2"><a class="viewmore">view more</a></div>
-                <div class="grid-item--width2 grid-item--height2"><a class="viewmore">view more</a></div>
-                <div class="grid-item grid-item--width2"><a class="viewmore">view more</a></div>
-                <div class="grid-item grid-item--width2"><a class="viewmore">view more</a></div>
+
+                <div class="grid-item grid-item--height2"><a class="viewmore" href="article3.php">Patterns in Nature</a></div>
+                <div class="grid-item grid-item--width2 "><a class="viewmore">view more</a></div>
+
+                <div class="grid-item  grid-item--height2"><a class="viewmore" href="article3.php">Patterns in Nature</a></div>
                 <div class="grid-item grid-item--height2"><a class="viewmore">view more</a></div>
-                <div class="grid-item grid-item--width2"><a class="viewmore">view more</a></div>
-                <div class="grid-item grid-item--width2"><a class="viewmore">view more</a></div>
+
+                <div class="grid-item grid-item--width2 grid-item--height2"><a class="viewmore" href="article3.php">Patterns in Nature</a></div>
                 <div class="grid-item grid-item--height2"><a class="viewmore">view more</a></div>
+
+                <div class="grid-item grid-item--width2 grid-item--height2"><a class="viewmore" href="article3.php">Patterns in Nature</a></div>
+                <div class="grid-item  grid-item--height2"><a class="viewmore">view more</a></div>
+
+                <div class="grid-item grid-item--width2 grid-item--height2"><a class="viewmore" href="article3.php">Patterns in Nature</a></div>
+                <div class="grid-item grid-item--width2"><a class="viewmore">view more</a></div>
                 <div class="grid-item grid-item--width2 grid-item--height2"><a class="viewmore">view more</a></div>
-                <div class="grid-item grid-item--height2"><a class="viewmore">view more</a></div>
-                <div class="grid-item grid-item--width2"><a class="viewmore">view more</a></div>
-                <div class="grid-item grid-item--height2"><a class="viewmore">view more</a></div>
+
+
+
+
 
             </div>
 
@@ -95,65 +143,62 @@
     <section id="latesteditions">
         <h1>EDITIONS</h1>
 
-        <div class="grid">
-            <div class="grid-item grid-item--width2"></div>
-            <div class="grid-item grid-item--height2"></div>
-            <div class="grid-item"></div>
-            <div class="grid-item"></div>
-            <div class="grid-item grid-item--width2 grid-item--height2"></div>
-            <div class="grid-item grid-item--width2"></div>
-            <div class="grid-item grid-item--width2"></div>
-            <div class="grid-item grid-item--height2"></div>
-            <div class="grid-item"></div>
-            <div class="grid-item grid-item--width2"></div>
-            <div class="grid-item grid-item--height2"></div>
-            <div class="grid-item"></div>
-            <div class="grid-item"></div>
-            <div class="grid-item grid-item--width2"></div>
-            <div class="grid-item grid-item--height2"></div>
-            <div class="grid-item"></div>
-            <div class="grid-item grid-item--width2"></div>
-            <div class="grid-item grid-item--height2"></div>
-            <div class="grid-item"></div>
-            <div class="grid-item"></div>
+
+
+        <div class="edsize">
+            <img class="editionsphoto" src="img/editions/issue1.jpg">
+            <figcaption>Issue 1</figcaption>
+            <br><br>
+        </div>
+
+        <div class="edsize">
+            <img class="editionsphoto" src="img/editions/issue1.jpg">
+            <figcaption>Issue 1</figcaption>
+            <br><br>
+        </div>
+
+        <div class="edsize">
+            <img class="editionsphoto" src="img/editions/issue1.jpg">
+            <figcaption>Issue 1</figcaption>
+            <br><br>
+        </div>
+
+        <div class="edsize">
+            <img class="editionsphoto" src="img/editions/issue1.jpg">
+            <figcaption>Issue 1</figcaption>
+            <br><br>
+        </div>
+
+        <div class="edsize">
+            <img class="editionsphoto" src="img/editions/issue1.jpg">
+            <figcaption>Issue 1</figcaption>
+            <br><br>
         </div>
 
 
+
+
+
+
     </section>
+
     <footer>
         <p>GAEA® is a registered trademark.</p>
 
     </footer>
 
 
+        <?php include 'parts/bottomscripts.php' ?>
 
-<!--[if lte IE 9]>
-<p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade
-    your browser</a> to improve your experience and security.</p>
-<![endif]-->
-
-<!-- Add your site or application content here -->
-<script src="js/vendor/modernizr-3.5.0.min.js"></script>
-<script src="https://code.jquery.com/jquery-3.2.1.min.js"
-        integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
-<script>window.jQuery || document.write('<script src="js/vendor/jquery-3.2.1.min.js"><\/script>')</script>
-<script src="js/plugins.js"></script>
-<script src="js/isotope.pkgd.min.js"></script>
-
-<!-- Google Analytics: change UA-XXXXX-Y to be your site's ID. -->
-<script>
-    window.ga = function () {
-        ga.q.push(arguments)
-    };
-    ga.q = [];
-    ga.l = +new Date;
-    ga('create', 'UA-XXXXX-Y', 'auto');
-    ga('send', 'pageview')
-</script>
-
-
-<script src="https://www.google-analytics.com/analytics.js" async defer></script>
     </div>
 </div>
+
+
+
+
+
+
+        <?php include 'parts/scroll.php' ?>
+        <script src="js/hidescrollmain.js"></script>
 </body>
 </html>

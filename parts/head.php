@@ -12,6 +12,7 @@ print '<head>
 
     <link rel="stylesheet" href="css/normalize.css">
     <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/responsive.css">
     <link rel="stylesheet" href="css/isotype.css">
     <link rel="stylesheet" type="text/css" href="css/font-awesome.min.css">
     <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
@@ -20,7 +21,7 @@ print '<head>
     <link href="plugs/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <link href="plugs/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
     
-    <script type="text/javascript" src="js/jquery-3.2.1.min.js"></script>
+   
     <script src="https://cdnjs.cloudflare.com/ajax/libs/parallax/3.1.0/parallax.min.js"></script>
     <!-- Bootstrap core JavaScript -->
     <script src="plugs/jquery/jquery.min.js"></script>
