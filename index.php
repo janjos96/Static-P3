@@ -169,7 +169,6 @@
 
     <footer>
         <p>GAEA® is a registered trademark.</p>
-
     </footer>
 
 

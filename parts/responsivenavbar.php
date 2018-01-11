@@ -7,8 +7,8 @@ print ' <nav id="responsive_nav">
                 <li ><a href="articles.php">Articles</a></li>
                 <li ><a href="contacts.php">Contacts</li></a></li>
                 <li ><a href="shop.php">Shop</a></li>
-                  <li class="mainnav social"><a><i class="fa fa-facebook-square fa-2x" aria-hidden="true"></i></a></li>
-        <li class="mainnav social"><a> <i class="fa fa-instagram fa-2x" aria-hidden="true"></i></a></li>
+                <li class="mainnav social"><a><i class="fa fa-facebook-square fa-2x" aria-hidden="true"></i></a></li>
+                <li class="mainnav social"><a> <i class="fa fa-instagram fa-2x" aria-hidden="true"></i></a></li>
                 <li><a>PT</a>/<a>ENG</a></li>
             </ul>
 
