@@ -15,7 +15,11 @@ print '<head>
     <link rel="stylesheet" href="css/responsive.css">
     <link rel="stylesheet" href="css/isotype.css">
     <link rel="stylesheet" type="text/css" href="css/font-awesome.min.css">
+<<<<<<< HEAD
     <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+=======
+   <link href="https://fonts.googleapis.com/css?family=Inconsolata|Noto+Sans|Noto+Serif|Oswald" rel="stylesheet">
+>>>>>>> aaa16abd6b895067556d0301f450abcb629f210b
     
     
     <link href="plugs/bootstrap/css/bootstrap.min.css" rel="stylesheet">
