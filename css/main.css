@@ -16,6 +16,9 @@ html {
     line-height: 1.4;
     overflow-x: hidden;
     overflow-y: hidden;
+    /*font-family: 'Inconsolata', monospace;
+    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Noto Serif', serif;*/
 }
 
 /*
@@ -107,7 +110,7 @@ textarea {
 }
 
 body{
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Inconsolata', monospace !important;
 }
 
 #navb {
@@ -201,6 +204,10 @@ nav ul {
     padding-bottom: 10px;
 
 
+}
+
+.index_sections{
+    font-family: 'Oswald', sans-serif;
 }
 
 #title {
