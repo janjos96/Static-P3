@@ -2,6 +2,7 @@
 print ' <nav id="responsive_nav">
 
             <ul>
+                <li ><a href="index.php">Home</a></li>
                 <li ><a href="about.php">About</a></li>
                 <li ><a href="editions.php">Editions</a> </li>
                 <li ><a href="articles.php">Articles</a></li>
