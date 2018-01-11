@@ -92,11 +92,6 @@ $(document).ready(function () {
         // change size of item by toggling gigante class
         $('.grid-item').removeClass('gigante');
         $('.viewmore').css('display', 'none');
-<<<<<<< HEAD
-=======
-       // $(".grid-item").find(".index_titles").css("visibility" , "hidden");
-        $(this).find(".index_titles").css("visibility" , "visible");
->>>>>>> aaa16abd6b895067556d0301f450abcb629f210b
         $(this).addClass('gigante');
         $(this).find(".viewmore").fadeIn(0);
         $grid.isotope('layout');
